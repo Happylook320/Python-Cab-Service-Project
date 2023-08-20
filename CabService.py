@@ -12,7 +12,7 @@ Hired_Vehicles = ["LRY3-TATA", "NACC4-BMW"]
 def msgReleaseSuccess():
     print(">>>>Vehicle Released Successfully<<<<")
 
-def msgHireSuccess():
+defmsgHireSuccess():
     print(">>>>Vehicle Hired Successfully<<<<")
 
 def msgRemoveSuccess():
